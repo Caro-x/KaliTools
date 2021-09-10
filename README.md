@@ -1,3 +1,3 @@
 # KaliTools installation 
 Para instalar las herramientas:   
-curl -s https://github.com/Caro-x/Tools/master/KaliTools.sh | sudo bash
+curl -s https://raw.githubusercontent.com/Caro-x/Tools/master/KaliTools.sh | sudo bash
